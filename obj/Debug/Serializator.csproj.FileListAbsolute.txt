@@ -1,0 +1,7 @@
+E:\Unity\SerializationExample\Serializator\bin\Debug\Serializator.exe
+E:\Unity\SerializationExample\Serializator\bin\Debug\Serializator.pdb
+E:\Unity\SerializationExample\Serializator\obj\Debug\Serializator.csproj.AssemblyReference.cache
+E:\Unity\SerializationExample\Serializator\obj\Debug\Serializator.csproj.SuggestedBindingRedirects.cache
+E:\Unity\SerializationExample\Serializator\obj\Debug\Serializator.csproj.CoreCompileInputs.cache
+E:\Unity\SerializationExample\Serializator\obj\Debug\Serializator.exe
+E:\Unity\SerializationExample\Serializator\obj\Debug\Serializator.pdb
